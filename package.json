@@ -1,5 +1,10 @@
 {
   "devDependencies": {
     "web-vitals": "^4.2.4"
+  },
+  "dependencies": {
+    "@testing-library/react": "^13.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
