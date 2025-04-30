@@ -1,13 +1,4 @@
 {
-<<<<<<< HEAD
-  "devDependencies": {
-    "web-vitals": "^4.2.4"
-  },
-  "dependencies": {
-    "@testing-library/react": "^13.4.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-=======
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
@@ -19,10 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@testing-library/react": "^13.4.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "web-vitals": "^4.2.4",
     "@eslint/js": "^9.22.0",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
@@ -32,6 +25,5 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.1"
->>>>>>> c6a3179 (starting)
   }
 }
