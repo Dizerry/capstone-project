@@ -1,11 +1,20 @@
 import React from 'react';
+import Nav from './components/Nav';
+import Footer from './components/Footer';
+import Reserve from './components/Reserve';
+import Menu from './components/Menu';
 function App() {
 
   return (
-    <div >
-      <h1>this is a capstone project</h1>
-      </div>
+    <>
+
+<Nav/>
+<Reserve/>
+<Menu/>
+  <Footer/>
+
+    </>
   )
 }
 
-export default App
+export default App;
